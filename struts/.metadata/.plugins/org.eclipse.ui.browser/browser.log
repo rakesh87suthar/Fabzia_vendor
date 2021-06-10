@@ -1,0 +1,66 @@
+
+May 21, 2021 22:28:51.18 NEW SESSION
+May 21, 2021 22:28:51.18 [936:3560:0521/222851.182:ERROR:device_event_log_impl.cc(214)] [22:28:51.180] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 21, 2021 22:28:51.60 [936:3252:0521/222851.609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2021 22:29:15.37 [936:3560:0521/222915.379:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 21, 2021 22:29:15.85 [936:3560:0521/222915.856:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 21, 2021 22:29:16.13 [936:3560:0521/222916.137:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 21, 2021 22:29:17.71 [936:3252:0521/222917.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2021 22:30:02.78 [936:3252:0521/223002.783:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2021 22:31:57.76 [936:3252:0521/223157.760:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2021 22:35:16.41 [936:3252:0521/223516.412:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2021 22:41:16.16 [936:3252:0521/224116.164:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 21, 2021 23:50:04.79 [936:3252:0521/235004.793:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+May 26, 2021 18:26:36.67 NEW SESSION
+May 26, 2021 18:26:36.67 [3444:1804:0526/182636.671:ERROR:device_event_log_impl.cc(214)] [18:26:36.665] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 26, 2021 19:00:20.98 [3284:4036:0526/190020.983:ERROR:device_event_log_impl.cc(214)] [19:00:20.977] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 26, 2021 19:05:52.46 [2980:3932:0526/190552.468:ERROR:device_event_log_impl.cc(214)] [19:05:52.471] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 26, 2021 19:53:23.81 [2980:3292:0526/195323.814:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:53:45.19 [2980:3292:0526/195345.197:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:54:39.24 [2980:3292:0526/195439.241:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:56:08.75 [2980:3292:0526/195608.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:59:42.18 [2980:3292:0526/195942.183:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 26, 2021 22:00:43.26 NEW SESSION
+May 26, 2021 22:00:43.27 [2768:2392:0526/220043.262:ERROR:device_event_log_impl.cc(214)] [22:00:43.263] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 27, 2021 09:09:51.25 NEW SESSION
+May 27, 2021 09:09:51.25 [3628:3484:0527/090951.246:ERROR:device_event_log_impl.cc(214)] [09:09:51.247] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 27, 2021 09:45:38.61 [3844:3908:0527/094538.618:ERROR:device_event_log_impl.cc(214)] [09:45:38.617] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 27, 2021 09:45:38.84 [3844:3428:0527/094538.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:46:06.83 [3844:3428:0527/094606.838:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 27, 2021 11:28:20.82 NEW SESSION
+May 27, 2021 11:28:20.82 [1044:3392:0527/112820.819:ERROR:device_event_log_impl.cc(214)] [11:28:20.819] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 27, 2021 11:52:50.99 [1044:3828:0527/115250.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 12:19:41.14 [4568:2236:0527/121941.147:ERROR:device_event_log_impl.cc(214)] [12:19:41.147] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 27, 2021 14:34:21.08 NEW SESSION
+May 27, 2021 14:34:21.08 [4004:2180:0527/143421.076:ERROR:device_event_log_impl.cc(214)] [14:34:21.069] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 27, 2021 17:35:45.21 NEW SESSION
+May 27, 2021 17:35:45.21 [1096:3528:0527/173545.199:ERROR:device_event_log_impl.cc(214)] [17:35:45.198] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+May 28, 2021 11:37:42.77 NEW SESSION
+May 28, 2021 11:37:42.77 [392:2224:0528/113742.773:ERROR:device_event_log_impl.cc(214)] [11:37:42.773] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 28, 2021 11:40:37.16 [948:3676:0528/114037.167:ERROR:device_event_log_impl.cc(214)] [11:40:37.167] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 28, 2021 12:44:08.74 [948:4044:0528/124408.741:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 28, 2021 13:54:02.26 [948:4044:0528/135402.265:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+May 29, 2021 01:22:14.11 NEW SESSION
+May 29, 2021 01:22:14.11 [1444:3056:0529/012214.108:ERROR:device_event_log_impl.cc(214)] [01:22:14.105] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 29, 2021 01:38:10.20 [808:3004:0529/013810.209:ERROR:device_event_log_impl.cc(214)] [01:38:10.203] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+May 29, 2021 01:40:45.38 [3920:568:0529/014045.382:ERROR:device_event_log_impl.cc(214)] [01:40:45.378] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+
+Jun 08, 2021 10:27:57.73 NEW SESSION
+Jun 08, 2021 10:27:57.73 [3092:3096:0608/102757.727:ERROR:device_event_log_impl.cc(214)] [10:27:57.720] FIDO: webauthn_api.cc:53 Windows WebAuthn API failed to load
+Jun 08, 2021 10:27:58.17 [3092:3204:0608/102758.171:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:28:25.05 [3092:3204:0608/102825.051:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:29:20.55 [3092:3204:0608/102920.556:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:30:55.27 [3092:3204:0608/103055.279:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:34:10.19 [3092:3204:0608/103410.193:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:40:56.77 [3092:3204:0608/104056.772:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 08, 2021 10:42:59.54 [3092:3204:0608/104259.546:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 08, 2021 10:56:48.43 [1964:3052:0608/105648.428:ERROR:device_event_log_impl.cc(214)] [10:56:48.428] FIDO: webauthn_api.cc:53 Windows WebAuthn API failed to load
+Jun 08, 2021 10:59:26.35 [3620:3536:0608/105926.356:ERROR:device_event_log_impl.cc(214)] [10:59:26.356] FIDO: webauthn_api.cc:53 Windows WebAuthn API failed to load

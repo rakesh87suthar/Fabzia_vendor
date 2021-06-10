@@ -1,0 +1,5 @@
+package com.rakesh.dao;
+
+public class UserDao {
+
+}

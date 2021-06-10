@@ -1,0 +1,28 @@
+package com.rakesh.dao;
+
+import java.util.List;
+
+import org.hibernate.SessionFactory;
+
+import com.rakesh.bean.UserBean;
+import com.rakesh.util.HibernateUtil;
+
+public class UserDao {
+
+	private SessionFactory factory=HibernateUtil.getSessionFactory();
+	
+	public List<UserBean> getUserBean(String username,String password){
+		try {
+			
+		}catch (Exception e) {
+			System.out.println("exception occured  while fetching user "+e);
+			System.out.println(e);
+		}finally {
+			
+		}
+		
+		return null;
+	}
+	
+	
+}

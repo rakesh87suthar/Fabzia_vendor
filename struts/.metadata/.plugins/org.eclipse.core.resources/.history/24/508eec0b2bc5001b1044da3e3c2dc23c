@@ -1,0 +1,5 @@
+package com.rakesh.bean;
+
+public class UserBean {
+
+}

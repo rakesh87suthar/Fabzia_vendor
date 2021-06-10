@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Dell\Desktop\learning\struts\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1828026965.index
+3303911124.index
+2915904453.index
+3921385347.index
+2499624449.index
+1303626285.index
+4248898962.index

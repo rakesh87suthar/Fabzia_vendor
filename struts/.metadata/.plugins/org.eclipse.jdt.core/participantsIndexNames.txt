@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Dell\Desktop\learning\struts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\486976295.index
+\FirstWeb\src\main\resources
+C:\Users\Dell\Desktop\learning\struts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1391763080.index
+\Demo1\src\main\resources
+C:\Users\Dell\Desktop\learning\struts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\726217899.index
+\Demo\src\main\resources
+C:\Users\Dell\Desktop\learning\struts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3625936216.index
+\FirstWeb\src\main\java

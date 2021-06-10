@@ -1,0 +1,42 @@
+package com.rakesh.dao;
+
+import java.util.List;
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+
+import com.rakesh.bean.UserBean;
+import com.rakesh.util.HibernateUtil;
+
+public class UserDao {
+
+	private static SessionFactory factory=HibernateUtil.getSessionFactory();
+	
+	public static List<UserBean> getUserBean(String username,String password){
+		Session session=null;
+		try {
+			session=factory.openSession();
+			Query query=session.createQuery("from UserBean where name=:name1 and password=:password1");
+			query.setParameter("name1", username);
+			query.setParameter("password1", password);
+			List<UserBean> beans=query.list();
+			
+			if(null !=beans && beans.size()>0) {
+				return beans;
+			}
+			
+		}catch (Exception e) {
+			System.out.println("exception occured  while fetching user "+e);
+			System.out.println(e);
+		}finally {
+			if(null !=session && session.isOpen()) {
+				session.close();
+			}
+		}
+		
+		return null;
+	}
+	
+	
+}
